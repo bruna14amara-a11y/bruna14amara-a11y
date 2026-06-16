@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <h1 align="left">Wellcome Bruna's Github °-°</h1>
 
 ###
@@ -60,4 +58,4 @@
 
 <h2 align="left"></h2>
 
-###
+##
