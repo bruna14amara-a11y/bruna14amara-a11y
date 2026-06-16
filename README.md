@@ -2,18 +2,6 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/https://github.com/bruna14amara-a11y/https://github.com/bruna14amara-a11y/pacman-output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/https://github.com/bruna14amara-a11y/https://github.com/bruna14amara-a11y/pacman-output/pacman-contribution-graph.svg">
-  <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/https://github.com/bruna14amara-a11y/https://github.com/bruna14amara-a11y/pacman-output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/https://github.com/bruna14amara-a11y/https://github.com/bruna14amara-a11y/pacman-output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/https://github.com/bruna14amara-a11y/https://github.com/bruna14amara-a11y/pacman-output/pacman-contribution-graph.svg">
-</picture>
-
-###
-###
-
 <p align="left">Seja bem-vindo(a) ao meu perfil! Fique à vontade para explorar meus projetos e acompanhar minha evolução na área de tecnologia e dados.</p>
 
 ###
